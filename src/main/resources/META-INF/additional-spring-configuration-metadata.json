@@ -1,0 +1,24 @@
+{
+  "properties": [
+    {
+      "name": "aws.s3.accessKeyId",
+      "type": "java.lang.String",
+      "description": "aws IAM user access key id."
+    },
+    {
+      "name": "aws.s3.secretAccessKey",
+      "type": "java.lang.String",
+      "description": "aws IAM user secret access key."
+    },
+    {
+      "name": "aws.s3.bucket",
+      "type": "java.lang.String",
+      "description": "aws s3 bucket name."
+    },
+    {
+      "name": "aws.s3.region",
+      "type": "java.lang.String",
+      "description": "aws s3 region enum value."
+    }
+  ]
+}

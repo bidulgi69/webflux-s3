@@ -1,0 +1,13 @@
+aws:
+  s3:
+    accessKeyId: YOUR_AWS_IAM_ACCESS_KEY_ID
+    secretAccessKey: YOUR_AWS_IAM_SECRET_ACCESS_KEY
+    bucket: S3_BUCKET_NAME
+    region: S3_BUCKET_REGION
+
+server:
+  port: 8080
+
+logging:
+  level:
+    root: INFO
